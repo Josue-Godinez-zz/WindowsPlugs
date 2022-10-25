@@ -1,0 +1,27 @@
+C:\Users\PASANTE1\source\repos\IIS TEST\TASK AND SERVICES\bin\Debug\net6.0\TASK AND SERVICES.exe
+C:\Users\PASANTE1\source\repos\IIS TEST\TASK AND SERVICES\bin\Debug\net6.0\TASK AND SERVICES.deps.json
+C:\Users\PASANTE1\source\repos\IIS TEST\TASK AND SERVICES\bin\Debug\net6.0\TASK AND SERVICES.runtimeconfig.json
+C:\Users\PASANTE1\source\repos\IIS TEST\TASK AND SERVICES\bin\Debug\net6.0\TASK AND SERVICES.dll
+C:\Users\PASANTE1\source\repos\IIS TEST\TASK AND SERVICES\bin\Debug\net6.0\TASK AND SERVICES.pdb
+C:\Users\PASANTE1\source\repos\IIS TEST\TASK AND SERVICES\bin\Debug\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\PASANTE1\source\repos\IIS TEST\TASK AND SERVICES\bin\Debug\net6.0\Microsoft.Win32.TaskScheduler.dll
+C:\Users\PASANTE1\source\repos\IIS TEST\TASK AND SERVICES\bin\Debug\net6.0\de\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\PASANTE1\source\repos\IIS TEST\TASK AND SERVICES\bin\Debug\net6.0\es\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\PASANTE1\source\repos\IIS TEST\TASK AND SERVICES\bin\Debug\net6.0\fr\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\PASANTE1\source\repos\IIS TEST\TASK AND SERVICES\bin\Debug\net6.0\it\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\PASANTE1\source\repos\IIS TEST\TASK AND SERVICES\bin\Debug\net6.0\pl\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\PASANTE1\source\repos\IIS TEST\TASK AND SERVICES\bin\Debug\net6.0\ru\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\PASANTE1\source\repos\IIS TEST\TASK AND SERVICES\bin\Debug\net6.0\zh-CN\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\PASANTE1\source\repos\IIS TEST\TASK AND SERVICES\bin\Debug\net6.0\zh-Hant\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\PASANTE1\source\repos\IIS TEST\TASK AND SERVICES\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+C:\Users\PASANTE1\source\repos\IIS TEST\TASK AND SERVICES\obj\Debug\net6.0\TASK AND SERVICES.csproj.AssemblyReference.cache
+C:\Users\PASANTE1\source\repos\IIS TEST\TASK AND SERVICES\obj\Debug\net6.0\TASK AND SERVICES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PASANTE1\source\repos\IIS TEST\TASK AND SERVICES\obj\Debug\net6.0\TASK AND SERVICES.AssemblyInfoInputs.cache
+C:\Users\PASANTE1\source\repos\IIS TEST\TASK AND SERVICES\obj\Debug\net6.0\TASK AND SERVICES.AssemblyInfo.cs
+C:\Users\PASANTE1\source\repos\IIS TEST\TASK AND SERVICES\obj\Debug\net6.0\TASK AND SERVICES.csproj.CoreCompileInputs.cache
+C:\Users\PASANTE1\source\repos\IIS TEST\TASK AND SERVICES\obj\Debug\net6.0\TASK AND SERVICES.csproj.CopyComplete
+C:\Users\PASANTE1\source\repos\IIS TEST\TASK AND SERVICES\obj\Debug\net6.0\TASK AND SERVICES.dll
+C:\Users\PASANTE1\source\repos\IIS TEST\TASK AND SERVICES\obj\Debug\net6.0\refint\TASK AND SERVICES.dll
+C:\Users\PASANTE1\source\repos\IIS TEST\TASK AND SERVICES\obj\Debug\net6.0\TASK AND SERVICES.pdb
+C:\Users\PASANTE1\source\repos\IIS TEST\TASK AND SERVICES\obj\Debug\net6.0\TASK AND SERVICES.genruntimeconfig.cache
+C:\Users\PASANTE1\source\repos\IIS TEST\TASK AND SERVICES\obj\Debug\net6.0\ref\TASK AND SERVICES.dll
