@@ -1,0 +1,81 @@
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Release\net6.0\win-x64\appsettings.Development.json
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Release\net6.0\win-x64\appsettings.json
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Release\net6.0\win-x64\IIS TEST.exe
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Release\net6.0\win-x64\IIS TEST.deps.json
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Release\net6.0\win-x64\IIS TEST.runtimeconfig.json
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Release\net6.0\win-x64\IIS TEST.dll
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Release\net6.0\win-x64\IIS TEST.pdb
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Release\net6.0\win-x64\Microsoft.Data.Edm.dll
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Release\net6.0\win-x64\Microsoft.Data.OData.dll
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Release\net6.0\win-x64\Microsoft.Data.Services.Client.dll
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Release\net6.0\win-x64\Microsoft.OpenApi.dll
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Release\net6.0\win-x64\Microsoft.Web.Administration.dll
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Release\net6.0\win-x64\Microsoft.Windows.EventTracing.Processes.dll
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Release\net6.0\win-x64\Microsoft.Windows.EventTracing.Processing.dll
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Release\net6.0\win-x64\Microsoft.Windows.EventTracing.ScheduledTasks.dll
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Release\net6.0\win-x64\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Release\net6.0\win-x64\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Release\net6.0\win-x64\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Release\net6.0\win-x64\System.CodeDom.dll
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Release\net6.0\win-x64\System.Management.dll
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Release\net6.0\win-x64\System.ServiceProcess.ServiceController.dll
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Release\net6.0\win-x64\System.Spatial.dll
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Release\net6.0\win-x64\Microsoft.Win32.TaskScheduler.dll
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Release\net6.0\win-x64\de\Microsoft.Data.Edm.resources.dll
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Release\net6.0\win-x64\es\Microsoft.Data.Edm.resources.dll
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Release\net6.0\win-x64\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Release\net6.0\win-x64\it\Microsoft.Data.Edm.resources.dll
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Release\net6.0\win-x64\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Release\net6.0\win-x64\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Release\net6.0\win-x64\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Release\net6.0\win-x64\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Release\net6.0\win-x64\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Release\net6.0\win-x64\de\Microsoft.Data.OData.resources.dll
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Release\net6.0\win-x64\es\Microsoft.Data.OData.resources.dll
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Release\net6.0\win-x64\fr\Microsoft.Data.OData.resources.dll
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Release\net6.0\win-x64\it\Microsoft.Data.OData.resources.dll
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Release\net6.0\win-x64\ja\Microsoft.Data.OData.resources.dll
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Release\net6.0\win-x64\ko\Microsoft.Data.OData.resources.dll
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Release\net6.0\win-x64\ru\Microsoft.Data.OData.resources.dll
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Release\net6.0\win-x64\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Release\net6.0\win-x64\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Release\net6.0\win-x64\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Release\net6.0\win-x64\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Release\net6.0\win-x64\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Release\net6.0\win-x64\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Release\net6.0\win-x64\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Release\net6.0\win-x64\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Release\net6.0\win-x64\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Release\net6.0\win-x64\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Release\net6.0\win-x64\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Release\net6.0\win-x64\de\System.Spatial.resources.dll
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Release\net6.0\win-x64\es\System.Spatial.resources.dll
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Release\net6.0\win-x64\fr\System.Spatial.resources.dll
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Release\net6.0\win-x64\it\System.Spatial.resources.dll
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Release\net6.0\win-x64\ja\System.Spatial.resources.dll
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Release\net6.0\win-x64\ko\System.Spatial.resources.dll
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Release\net6.0\win-x64\ru\System.Spatial.resources.dll
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Release\net6.0\win-x64\zh-Hans\System.Spatial.resources.dll
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Release\net6.0\win-x64\zh-Hant\System.Spatial.resources.dll
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Release\net6.0\win-x64\de\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Release\net6.0\win-x64\es\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Release\net6.0\win-x64\fr\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Release\net6.0\win-x64\it\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Release\net6.0\win-x64\pl\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Release\net6.0\win-x64\ru\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Release\net6.0\win-x64\zh-CN\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Release\net6.0\win-x64\zh-Hant\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\obj\Release\net6.0\win-x64\IIS TEST.csproj.AssemblyReference.cache
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\obj\Release\net6.0\win-x64\IIS TEST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\obj\Release\net6.0\win-x64\IIS TEST.AssemblyInfoInputs.cache
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\obj\Release\net6.0\win-x64\IIS TEST.AssemblyInfo.cs
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\obj\Release\net6.0\win-x64\IIS TEST.csproj.CoreCompileInputs.cache
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\obj\Release\net6.0\win-x64\IIS TEST.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\obj\Release\net6.0\win-x64\IIS TEST.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\obj\Release\net6.0\win-x64\scopedcss\bundle\IIS TEST.styles.css
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\obj\Release\net6.0\win-x64\IIS TEST.csproj.CopyComplete
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\obj\Release\net6.0\win-x64\IIS TEST.dll
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\obj\Release\net6.0\win-x64\refint\IIS TEST.dll
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\obj\Release\net6.0\win-x64\IIS TEST.pdb
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\obj\Release\net6.0\win-x64\IIS TEST.genruntimeconfig.cache
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\obj\Release\net6.0\win-x64\ref\IIS TEST.dll
