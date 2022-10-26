@@ -6,6 +6,8 @@ using Microsoft.Win32.TaskScheduler;
 using System.Text.RegularExpressions;
 using Task = Microsoft.Win32.TaskScheduler.Task;
 using IIS_TEST.Models;
+using System.ServiceProcess;
+using System.Management;
 
 namespace IIS_TEST.Controllers
 {
@@ -33,6 +35,29 @@ namespace IIS_TEST.Controllers
             }; } );
         }
 
+        [HttpGet]
+        [Route("/services")]
+        public IEnumerable<WindowService> GetWindowServices()
+        {
+            ServiceController[] service = ServiceController.GetServices();
+            return ServiceController.GetServices().Select(service => {
+                try
+                {
+                    return new WindowService()
+                    {
+                        DisplayName = service.DisplayName,
+                        ServiceName = service.ServiceName,
+                        StartType = service.StartType.ToString(),
+                        Status = service.Status.ToString(),
+                        Description = (string)new ManagementObject(new ManagementPath(string.Format("Win32_Service.Name='{0}'", service.ServiceName)))["Description"]
+        };
+                } catch
+                {
+                    return new WindowService() { };
+                }
+                
+            });
+        }
 
         [HttpGet]
         public IEnumerable<WeatherForecast> Get()

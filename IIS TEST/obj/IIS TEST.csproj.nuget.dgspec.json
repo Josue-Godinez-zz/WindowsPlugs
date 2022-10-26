@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PASANTE1\\source\\repos\\IIS TEST\\IIS TEST\\IIS TEST.csproj": {}
+    "C:\\Users\\PASANTE1\\Desktop\\Git\\WindowsPlugs\\IIS TEST\\IIS TEST.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PASANTE1\\source\\repos\\IIS TEST\\IIS TEST\\IIS TEST.csproj": {
+    "C:\\Users\\PASANTE1\\Desktop\\Git\\WindowsPlugs\\IIS TEST\\IIS TEST.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PASANTE1\\source\\repos\\IIS TEST\\IIS TEST\\IIS TEST.csproj",
+        "projectUniqueName": "C:\\Users\\PASANTE1\\Desktop\\Git\\WindowsPlugs\\IIS TEST\\IIS TEST.csproj",
         "projectName": "IIS TEST",
-        "projectPath": "C:\\Users\\PASANTE1\\source\\repos\\IIS TEST\\IIS TEST\\IIS TEST.csproj",
+        "projectPath": "C:\\Users\\PASANTE1\\Desktop\\Git\\WindowsPlugs\\IIS TEST\\IIS TEST.csproj",
         "packagesPath": "C:\\Users\\PASANTE1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PASANTE1\\source\\repos\\IIS TEST\\IIS TEST\\obj\\",
+        "outputPath": "C:\\Users\\PASANTE1\\Desktop\\Git\\WindowsPlugs\\IIS TEST\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PASANTE1\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,6 +55,10 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"
+            },
+            "System.Management": {
+              "target": "Package",
+              "version": "[6.0.0, )"
             },
             "TaskScheduler": {
               "target": "Package",

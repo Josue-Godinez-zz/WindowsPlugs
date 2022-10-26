@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PASANTE1\\source\\repos\\IIS TEST\\TASK AND SERVICES\\TASK AND SERVICES.csproj": {}
+    "C:\\Users\\PASANTE1\\Desktop\\Git\\WindowsPlugs\\TASK AND SERVICES\\TASK AND SERVICES.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PASANTE1\\source\\repos\\IIS TEST\\TASK AND SERVICES\\TASK AND SERVICES.csproj": {
+    "C:\\Users\\PASANTE1\\Desktop\\Git\\WindowsPlugs\\TASK AND SERVICES\\TASK AND SERVICES.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PASANTE1\\source\\repos\\IIS TEST\\TASK AND SERVICES\\TASK AND SERVICES.csproj",
+        "projectUniqueName": "C:\\Users\\PASANTE1\\Desktop\\Git\\WindowsPlugs\\TASK AND SERVICES\\TASK AND SERVICES.csproj",
         "projectName": "TASK AND SERVICES",
-        "projectPath": "C:\\Users\\PASANTE1\\source\\repos\\IIS TEST\\TASK AND SERVICES\\TASK AND SERVICES.csproj",
+        "projectPath": "C:\\Users\\PASANTE1\\Desktop\\Git\\WindowsPlugs\\TASK AND SERVICES\\TASK AND SERVICES.csproj",
         "packagesPath": "C:\\Users\\PASANTE1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PASANTE1\\source\\repos\\IIS TEST\\TASK AND SERVICES\\obj\\",
+        "outputPath": "C:\\Users\\PASANTE1\\Desktop\\Git\\WindowsPlugs\\TASK AND SERVICES\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PASANTE1\\AppData\\Roaming\\NuGet\\NuGet.Config",

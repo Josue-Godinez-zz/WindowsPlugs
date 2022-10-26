@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PASANTE1\\source\\repos\\IIS TEST\\TASKS\\TASKS.csproj": {}
+    "C:\\Users\\PASANTE1\\Desktop\\Git\\WindowsPlugs\\TASKS\\TASKS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PASANTE1\\source\\repos\\IIS TEST\\TASKS\\TASKS.csproj": {
+    "C:\\Users\\PASANTE1\\Desktop\\Git\\WindowsPlugs\\TASKS\\TASKS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PASANTE1\\source\\repos\\IIS TEST\\TASKS\\TASKS.csproj",
+        "projectUniqueName": "C:\\Users\\PASANTE1\\Desktop\\Git\\WindowsPlugs\\TASKS\\TASKS.csproj",
         "projectName": "TASKS",
-        "projectPath": "C:\\Users\\PASANTE1\\source\\repos\\IIS TEST\\TASKS\\TASKS.csproj",
+        "projectPath": "C:\\Users\\PASANTE1\\Desktop\\Git\\WindowsPlugs\\TASKS\\TASKS.csproj",
         "packagesPath": "C:\\Users\\PASANTE1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PASANTE1\\source\\repos\\IIS TEST\\TASKS\\obj\\",
+        "outputPath": "C:\\Users\\PASANTE1\\Desktop\\Git\\WindowsPlugs\\TASKS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PASANTE1\\AppData\\Roaming\\NuGet\\NuGet.Config",

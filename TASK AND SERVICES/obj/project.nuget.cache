@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X9ZvRMmR6+fUUryfoJhX3ZhgIa64kJOQG8iVewow2ZqH7XDwdhPkWoWsxe5UE7Eih3yFOI+vAK1ApjcWAqV5iA==",
+  "dgSpecHash": "+xIaPPPKoaSNNO6JnN+l6W54cel6DpwckIppuVkq3dMY21YHUjSdFxYzKQdM2Y5VbXeXU4nJ/dKxnUXSy0Bx1A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PASANTE1\\source\\repos\\IIS TEST\\TASK AND SERVICES\\TASK AND SERVICES.csproj",
+  "projectFilePath": "C:\\Users\\PASANTE1\\Desktop\\Git\\WindowsPlugs\\TASK AND SERVICES\\TASK AND SERVICES.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PASANTE1\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
     "C:\\Users\\PASANTE1\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",

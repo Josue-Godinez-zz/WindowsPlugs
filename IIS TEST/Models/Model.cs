@@ -43,4 +43,13 @@
         public DateTime DateCreation { get; set; }
     }
 
+    public class WindowService
+    {
+        public String ServiceName { get; set; }
+        public String DisplayName { get; set; }
+        public String Description { get; set; }
+        public String StartType { get; set; }
+        public String Status { get; set; }
+    }
+
 }
