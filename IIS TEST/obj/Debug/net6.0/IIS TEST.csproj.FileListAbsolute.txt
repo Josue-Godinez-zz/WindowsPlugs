@@ -98,6 +98,8 @@ C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Debug\net6.0\Microsoft.W
 C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Debug\net6.0\System.Management.dll
 C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Debug\net6.0\System.Spatial.dll
 C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Debug\net6.0\Microsoft.Win32.TaskScheduler.dll
 C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Debug\net6.0\de\Microsoft.Data.Edm.resources.dll
@@ -144,6 +146,7 @@ C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Debug\net6.0\pl\Microsof
 C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Debug\net6.0\ru\Microsoft.Win32.TaskScheduler.resources.dll
 C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Debug\net6.0\zh-CN\Microsoft.Win32.TaskScheduler.resources.dll
 C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Debug\net6.0\zh-Hant\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Management.dll
 C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Debug\net6.0\runtimes\unix\lib\netstandard1.5\System.ServiceProcess.ServiceController.dll
 C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Debug\net6.0\runtimes\win\lib\netstandard1.5\System.ServiceProcess.ServiceController.dll
 C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\obj\Debug\net6.0\IIS TEST.csproj.AssemblyReference.cache
@@ -162,6 +165,3 @@ C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\obj\Debug\net6.0\refint\IIS 
 C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\obj\Debug\net6.0\IIS TEST.pdb
 C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\obj\Debug\net6.0\IIS TEST.genruntimeconfig.cache
 C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\obj\Debug\net6.0\ref\IIS TEST.dll
-C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Debug\net6.0\System.CodeDom.dll
-C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Debug\net6.0\System.Management.dll
-C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Management.dll

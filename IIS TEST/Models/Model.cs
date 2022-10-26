@@ -2,9 +2,9 @@
 {
 
 
-    public class Site
+    public class IISSite
     {
-        public int Id { get; set; }
+        public long Id { get; set; }
         public String SiteName { get; set; }
         //En veremos
         public String Schema { get; set; }
@@ -13,7 +13,7 @@
         public String LogFileDirectory { get; set; }
     }
 
-    public class Pool
+    public class IISPool
     {
         public Boolean AutoStart { get; set; }
         public String PoolName { get; set; }

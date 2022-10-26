@@ -13,10 +13,11 @@ namespace IIS_TEST.Controllers
 {
     [ApiController]
     [Route("[controller]")]
-    public class WeatherForecastController : ControllerBase
+    public class WindowPlugs : ControllerBase
     {
         [HttpGet]
-        [Route("/task")]
+        [Route("/TaskSchedule")]
+        [ActionName("GetWindowTaskSchedule")]
         public IEnumerable<TaskSchedule> GetTasks()
         {
             return TaskService.Instance.FindAllTasks(new Regex(".*")).Select(task => { return new TaskSchedule() {
@@ -36,7 +37,8 @@ namespace IIS_TEST.Controllers
         }
 
         [HttpGet]
-        [Route("/services")]
+        [Route("/Services")]
+        [ActionName("GetWindowServicesInformation")]
         public IEnumerable<WindowService> GetWindowServices()
         {
             ServiceController[] service = ServiceController.GetServices();
@@ -60,66 +62,41 @@ namespace IIS_TEST.Controllers
         }
 
         [HttpGet]
-        public IEnumerable<WeatherForecast> Get()
+        [Route("/SitesIIS")]
+        [ActionName("GetSitesIIS")]
+        public IEnumerable<IISSite> GetSitesIIS()
         {
-            //Task[] allTasks = new Task;
-            
-            //foreach(Task task in allTasks)
-            //{
-            //    var name = task.Name;
-            //    TaskDefinition definition = task.Definition;
-                
-            //    var it = task;
-            //}
 
-            ServerManager serverManager = new ServerManager($"{Environment.GetEnvironmentVariable("windir")}\\system32\\inetsrv\\config\\applicationHost.config");
+            //ServerManager serverManager = new ServerManager($"{Environment.GetEnvironmentVariable("windir")}\\system32\\inetsrv\\config\\applicationHost.config");
+            ServerManager serverManager = new ServerManager();
+            SiteCollection sites = serverManager.Sites;
+            return sites.Select(site => { return new IISSite() {
+                Id = site.Id,
+                SiteName = site.Name,
+                Schema = site.Schema.Name,
+                State = site.State.ToString(),
+                LogFileDirectory = site.LogFile.Directory,
+                ServerAutoStart = site.ServerAutoStart
+                };
+            });
+        }
 
-            var p = serverManager.GetAdministrationConfiguration();
-            var _ = serverManager.ApplicationPools;
-
-            var _1 = serverManager.Sites;
-            
-            foreach(var item in _)
-            {
-                Console.Write(item);
-                var i = item.State;
-            }
-
-            foreach (var item in _1)
-            {
-                   
-                var atr = item.Attributes;
-                try
-                {
-                    var x = item.State;
-                }
-                catch (Exception ex)
-                {
-                    var y = ex;
-                }
-                var q = item.ChildElements;
-                var w = item.Bindings;
-                var e = item.Applications;
-                var r = item.Name;
-                var s = item.Id;
-                var t = item.Limits;
-            }
-            var l = serverManager.ApplicationPoolDefaults;
-
-            var m = serverManager.GetApplicationHostConfiguration();
-
-            var k = serverManager.GetRedirectionConfiguration();
-            var h = serverManager.GetMetadata;
-            var g = serverManager.SiteDefaults;
-            var d = serverManager.WorkerProcesses;
-            
-
-            return Enumerable.Range(1, 5).Select(index => new WeatherForecast
-            {
-                Date = DateTime.Now.AddDays(index),
-                TemperatureC = Random.Shared.Next(-20, 55),
-            })
-            .ToArray();
+        [HttpGet]
+        [Route("/PoolsIIS")]
+        [ActionName("GetPoolsIIS")]
+        public IEnumerable<IISPool> GetPoolsIIS()
+        {
+            ServerManager serverManager = new ServerManager();
+            ApplicationPoolCollection pools = serverManager.ApplicationPools;
+            return pools.Select(pool => { return new IISPool() { 
+                PoolName = pool.Name,
+                AutoStart = pool.AutoStart,
+                Schema = pool.Schema.Name,
+                Enable32Bit = pool.Enable32BitAppOnWin64,
+                IsLocallyStored = pool.IsLocallyStored,
+                State = pool.State.ToString(),
+                Version = pool.ManagedRuntimeVersion
+            }; });
         }
 
     }
