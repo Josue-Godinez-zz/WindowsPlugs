@@ -1,6 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Web.Administration;
-using Microsoft.Windows.EventTracing.ScheduledTasks;
 using System.Threading.Tasks;
 using Microsoft.Win32.TaskScheduler;
 using System.Text.RegularExpressions;
@@ -41,7 +40,6 @@ namespace IIS_TEST.Controllers
         [ActionName("GetWindowServicesInformation")]
         public IEnumerable<WindowService> GetWindowServices()
         {
-            ServiceController[] service = ServiceController.GetServices();
             return ServiceController.GetServices().Select(service => {
                 try
                 {
@@ -76,8 +74,20 @@ namespace IIS_TEST.Controllers
                 Schema = site.Schema.Name,
                 State = site.State.ToString(),
                 LogFileDirectory = site.LogFile.Directory,
-                ServerAutoStart = site.ServerAutoStart
-                };
+                ServerAutoStart = site.ServerAutoStart,
+                //Pool = site.Applications.Select(pool => { return new IISPool() {
+                //    PoolName = pool.Name,
+                //    AutoStart = pool.AutoStart,
+                //    Schema = pool.Schema.Name,
+                //    Enable32Bit = pool.Enable32BitAppOnWin64,
+                //    IsLocallyStored = pool.IsLocallyStored,
+                //    State = pool.State.ToString(),
+                //    User = pool.ProcessModel.UserName,
+                //    Password = pool.ProcessModel.Password,
+                //    StartMode = pool.StartMode.ToString(),
+                //    Version = pool.ManagedRuntimeVersion,
+                //}; })
+            };
             });
         }
 
@@ -88,15 +98,30 @@ namespace IIS_TEST.Controllers
         {
             ServerManager serverManager = new ServerManager();
             ApplicationPoolCollection pools = serverManager.ApplicationPools;
-            return pools.Select(pool => { return new IISPool() { 
+            return pools.Select(pool => { return new IISPool() {
                 PoolName = pool.Name,
                 AutoStart = pool.AutoStart,
                 Schema = pool.Schema.Name,
                 Enable32Bit = pool.Enable32BitAppOnWin64,
                 IsLocallyStored = pool.IsLocallyStored,
                 State = pool.State.ToString(),
-                Version = pool.ManagedRuntimeVersion
-            }; });
+                User = pool.ProcessModel.UserName,
+                Password = pool.ProcessModel.Password,
+                StartMode = pool.StartMode.ToString(),
+                Version = pool.ManagedRuntimeVersion,
+                Applications = serverManager.Sites.Where(site => site.Applications.Select(app => app.ApplicationPoolName).Contains(pool.Name)).Select(site => {
+                    return new IISSite
+                    {
+                        Id = site.Id,
+                        SiteName = site.Name,
+                        Schema = site.Schema.Name,
+                        State = site.State.ToString(),
+                        LogFileDirectory = site.LogFile.Directory,
+                        ServerAutoStart = site.ServerAutoStart
+                    };
+                    })
+                }; 
+            });
         }
 
     }

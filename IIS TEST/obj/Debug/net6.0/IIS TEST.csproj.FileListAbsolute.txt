@@ -92,9 +92,6 @@ C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Debug\net6.0\Microsoft.D
 C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Debug\net6.0\Microsoft.Data.Services.Client.dll
 C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Debug\net6.0\Microsoft.OpenApi.dll
 C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Debug\net6.0\Microsoft.Web.Administration.dll
-C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Debug\net6.0\Microsoft.Windows.EventTracing.Processes.dll
-C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Debug\net6.0\Microsoft.Windows.EventTracing.Processing.dll
-C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Debug\net6.0\Microsoft.Windows.EventTracing.ScheduledTasks.dll
 C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\PASANTE1\Desktop\Git\WindowsPlugs\IIS TEST\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll

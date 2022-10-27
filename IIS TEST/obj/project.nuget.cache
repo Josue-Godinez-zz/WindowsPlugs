@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "to97Lo6b2P68Lb4J2vST5CVp4/CXBGS+2M9+SmILubq2TGvhCsz9vJUpOLtecZmbGy2WCQrTNdMAOvHJ8FeEEg==",
+  "dgSpecHash": "5+rtkgnndrlPvOI9huw0HGouNVAFnB+na0xATjgtUWHpexDI8PbmoIH4SLN2DHHli/pVg7DudMdToUtTgSnwsg==",
   "success": true,
   "projectFilePath": "C:\\Users\\PASANTE1\\Desktop\\Git\\WindowsPlugs\\IIS TEST\\IIS TEST.csproj",
   "expectedPackageFiles": [
@@ -14,9 +14,6 @@
     "C:\\Users\\PASANTE1\\.nuget\\packages\\microsoft.web.administration\\11.1.0\\microsoft.web.administration.11.1.0.nupkg.sha512",
     "C:\\Users\\PASANTE1\\.nuget\\packages\\microsoft.win32.primitives\\4.0.1\\microsoft.win32.primitives.4.0.1.nupkg.sha512",
     "C:\\Users\\PASANTE1\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
-    "C:\\Users\\PASANTE1\\.nuget\\packages\\microsoft.windows.eventtracing.processes\\1.10.0\\microsoft.windows.eventtracing.processes.1.10.0.nupkg.sha512",
-    "C:\\Users\\PASANTE1\\.nuget\\packages\\microsoft.windows.eventtracing.processing\\1.10.0\\microsoft.windows.eventtracing.processing.1.10.0.nupkg.sha512",
-    "C:\\Users\\PASANTE1\\.nuget\\packages\\microsoft.windows.eventtracing.scheduledtasks\\1.10.0\\microsoft.windows.eventtracing.scheduledtasks.1.10.0.nupkg.sha512",
     "C:\\Users\\PASANTE1\\.nuget\\packages\\netstandard.library\\1.6.0\\netstandard.library.1.6.0.nupkg.sha512",
     "C:\\Users\\PASANTE1\\.nuget\\packages\\runtime.native.system\\4.0.0\\runtime.native.system.4.0.0.nupkg.sha512",
     "C:\\Users\\PASANTE1\\.nuget\\packages\\runtime.native.system.io.compression\\4.1.0\\runtime.native.system.io.compression.4.1.0.nupkg.sha512",
@@ -52,7 +49,6 @@
     "C:\\Users\\PASANTE1\\.nuget\\packages\\system.linq.expressions\\4.1.0\\system.linq.expressions.4.1.0.nupkg.sha512",
     "C:\\Users\\PASANTE1\\.nuget\\packages\\system.linq.queryable\\4.0.1\\system.linq.queryable.4.0.1.nupkg.sha512",
     "C:\\Users\\PASANTE1\\.nuget\\packages\\system.management\\6.0.0\\system.management.6.0.0.nupkg.sha512",
-    "C:\\Users\\PASANTE1\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
     "C:\\Users\\PASANTE1\\.nuget\\packages\\system.net.http\\4.1.0\\system.net.http.4.1.0.nupkg.sha512",
     "C:\\Users\\PASANTE1\\.nuget\\packages\\system.net.primitives\\4.0.11\\system.net.primitives.4.0.11.nupkg.sha512",
     "C:\\Users\\PASANTE1\\.nuget\\packages\\system.net.requests\\4.0.11\\system.net.requests.4.0.11.nupkg.sha512",

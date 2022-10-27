@@ -11,18 +11,23 @@
         public Boolean ServerAutoStart { get; set; }
         public String State { get; set; }
         public String LogFileDirectory { get; set; }
+        public IEnumerable<IISPool> Pool { get; set; }
     }
 
     public class IISPool
     {
         public Boolean AutoStart { get; set; }
         public String PoolName { get; set; }
+        public IEnumerable<IISSite> Applications { get; set; }
         //En veremos
         public String State { get; set; }
         public String Schema { get; set; }
         public Boolean IsLocallyStored { get; set; }
         //Enable 32 bit on Windows x64
         public Boolean Enable32Bit { get; set; }
+        public String User { get; set; }
+        public String Password { get; set; }
+        public String StartMode {get;set;}
         // Managed Runtime Version
         public String Version { get; set; }
     }

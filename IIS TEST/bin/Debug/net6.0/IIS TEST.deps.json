@@ -10,7 +10,6 @@
         "dependencies": {
           "Microsoft.Data.Services.Client": "5.8.5",
           "Microsoft.Web.Administration": "11.1.0",
-          "Microsoft.Windows.EventTracing.ScheduledTasks": "1.10.0",
           "Swashbuckle.AspNetCore": "6.4.0",
           "System.Management": "6.0.0",
           "TaskScheduler": "2.10.1"
@@ -179,41 +178,6 @@
         "dependencies": {
           "System.Security.AccessControl": "5.0.0",
           "System.Security.Principal.Windows": "5.0.0"
-        }
-      },
-      "Microsoft.Windows.EventTracing.Processes/1.10.0": {
-        "dependencies": {
-          "Microsoft.Windows.EventTracing.Processing": "1.10.0"
-        },
-        "runtime": {
-          "lib/netstandard2.0/Microsoft.Windows.EventTracing.Processes.dll": {
-            "assemblyVersion": "1.10.0.0",
-            "fileVersion": "1.10.0.1"
-          }
-        }
-      },
-      "Microsoft.Windows.EventTracing.Processing/1.10.0": {
-        "dependencies": {
-          "System.Memory": "4.5.3",
-          "System.Security.Principal.Windows": "5.0.0"
-        },
-        "runtime": {
-          "lib/netstandard2.0/Microsoft.Windows.EventTracing.Processing.dll": {
-            "assemblyVersion": "1.10.0.0",
-            "fileVersion": "1.10.0.1"
-          }
-        }
-      },
-      "Microsoft.Windows.EventTracing.ScheduledTasks/1.10.0": {
-        "dependencies": {
-          "Microsoft.Windows.EventTracing.Processes": "1.10.0",
-          "Microsoft.Windows.EventTracing.Processing": "1.10.0"
-        },
-        "runtime": {
-          "lib/netstandard2.0/Microsoft.Windows.EventTracing.ScheduledTasks.dll": {
-            "assemblyVersion": "1.10.0.0",
-            "fileVersion": "1.10.0.1"
-          }
         }
       },
       "NETStandard.Library/1.6.0": {
@@ -598,7 +562,6 @@
           }
         }
       },
-      "System.Memory/4.5.3": {},
       "System.Net.Http/4.1.0": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "5.0.0",
@@ -1184,27 +1147,6 @@
       "path": "microsoft.win32.registry/5.0.0",
       "hashPath": "microsoft.win32.registry.5.0.0.nupkg.sha512"
     },
-    "Microsoft.Windows.EventTracing.Processes/1.10.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-+zmNqQX2HoD83ieqvJga0od1odxInWJ7DELPj0WX3XIRyBhYiNJQJAM1hphFltoKNfC7FG8V2yCYDbASi8DMOA==",
-      "path": "microsoft.windows.eventtracing.processes/1.10.0",
-      "hashPath": "microsoft.windows.eventtracing.processes.1.10.0.nupkg.sha512"
-    },
-    "Microsoft.Windows.EventTracing.Processing/1.10.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-OPnDi7V2dhNmJV16h0qcmJ48bkmD/fyQ+APRrhm0Vp5963C4vg4NmO7pVUGZYGpIpENsgNQEMMxPVlAJvor7xw==",
-      "path": "microsoft.windows.eventtracing.processing/1.10.0",
-      "hashPath": "microsoft.windows.eventtracing.processing.1.10.0.nupkg.sha512"
-    },
-    "Microsoft.Windows.EventTracing.ScheduledTasks/1.10.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-5jsto9T+UDGTU7ao5NeTjSNbRKndiXbVm7cq5tWOw9OvJIs2q/YpdKcb0WkW4EFR+EeopUGZylMRgVvq4AId/Q==",
-      "path": "microsoft.windows.eventtracing.scheduledtasks/1.10.0",
-      "hashPath": "microsoft.windows.eventtracing.scheduledtasks.1.10.0.nupkg.sha512"
-    },
     "NETStandard.Library/1.6.0": {
       "type": "package",
       "serviceable": true,
@@ -1449,13 +1391,6 @@
       "sha512": "sha512-sHsESYMmPDhQuOC66h6AEOs/XowzKsbT9srMbX71TCXP58hkpn1BqBjdmKj1+DCA/WlBETX1K5WjQHwmV0Txrg==",
       "path": "system.management/6.0.0",
       "hashPath": "system.management.6.0.0.nupkg.sha512"
-    },
-    "System.Memory/4.5.3": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-3oDzvc/zzetpTKWMShs1AADwZjQ/36HnsufHRPcOjyRAAMLDlu2iD33MBI2opxnezcVUtXyqDXXjoFMOU9c7SA==",
-      "path": "system.memory/4.5.3",
-      "hashPath": "system.memory.4.5.3.nupkg.sha512"
     },
     "System.Net.Http/4.1.0": {
       "type": "package",
